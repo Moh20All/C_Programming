@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1647381253 source:c:\users\moh\onedrive\documents\tp\main.c
+	<stdio.h>
+	"header.h"
+
+1647380533 c:\users\moh\onedrive\documents\tp\header.h
+	<stdio.h>
+
+1650174391 source:c:\users\moh\documents\tp\main.c
+	<stdio.h>
+	"header.h"
+
+1650174299 c:\users\moh\documents\tp\header.h
+	<stdio.h>
+
+1668852853 source:c:\users\pc\desktop\tp\tp\main.c
+	<stdio.h>
+	"header.h"
+
+1650230739 c:\users\pc\desktop\tp\tp\header.h
+	<stdio.h>
+
